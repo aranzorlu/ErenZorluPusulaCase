@@ -1,7 +1,0 @@
-﻿################################################################################
-# Bu .gitignore dosyası Microsoft(R) Visual Studio tarafından otomatik olarak oluşturulmuştur.
-################################################################################
-
-/.vs
-/PusulaCase/bin/Debug/net8.0
-/PusulaCase/obj
